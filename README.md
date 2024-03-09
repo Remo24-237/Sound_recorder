@@ -8,3 +8,4 @@ pip install sounddevice
 
 #
 Script used to access microphone to record, time of recording needs to be specified in the script.
+Sound recorded will be saved in the directory containing the project
